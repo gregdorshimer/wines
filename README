@@ -1,0 +1,6 @@
+A project to predict wine quality based on several other factors using SKlearn Machine Learning.
+
+wines.ipynb runs in Jupyter Notebook and contains complete walkthrough.
+
+wines.csv originally download from https://machinelearningmastery.com/standard-machine-learning-datasets
+(link on page: http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv)
