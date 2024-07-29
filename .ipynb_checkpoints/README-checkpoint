@@ -9,7 +9,7 @@ Contains:
 --data cleaning
 --data validation
 --EDA, visualization
---modelled with multiple ML methods (random for comparison):
+--modeled with multiple ML methods (random for comparison):
 ----Decision Tree
 ----Random Forest
 ----XGBoost
