@@ -1,4 +1,4 @@
-A project to predict wine quality based on several other factors using SK-learn Machine Learning.
+A project to predict wine quality based on several other factors using Sci-kit Learn and XGBoost Machine Learning.
 
 wines.ipynb runs in Jupyter Notebook and contains complete walkthrough.
 
